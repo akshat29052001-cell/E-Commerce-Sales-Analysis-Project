@@ -1,5 +1,7 @@
 E-Commerce Sales Data Analysis
 
+![E-Commerce Sales Dashboard](E-Commerce%20Dashboard.png)
+
 Project Overview
 This project involved analyzing a dataset of 3,660 e-commerce sales transactions to evaluate customer purchasing behavior, revenue performance, and category trends. By examining product categories, payment methods, and discount strategies, the analysis extracted actionable insights to guide business optimization and sales strategies.
 
